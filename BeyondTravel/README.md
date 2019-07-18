@@ -1,3 +1,0 @@
-Page
-
-Beyond Travel
