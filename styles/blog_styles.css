@@ -7,7 +7,7 @@ COLOR PALETTE
 
 #28262d - Headings Color
 #909090 - Body copy
-#452b78 - (Spanish Violet)
+rgb(2, 27, 85) - (Spanish Violet)
 
 
 [Table of Contents]
@@ -272,7 +272,7 @@ section
 	height: 54px;
 	width: 174px;
 	text-align: center;
-	border: solid 2px #452b78;
+	border: solid 2px rgb(2, 27, 85);
 	background: transparent;
 }
 .button a
@@ -283,7 +283,7 @@ section
 	font-weight: 700;
 	line-height: 50px;
 	text-transform: uppercase;
-	color: #452b78;
+	color: rgb(2, 27, 85);
 }
 .prlx_parent
 {
@@ -331,13 +331,13 @@ section
 	left: 0;
 	width: 100%;
 	height: 128px;
-	background: rgba(27, 11, 51, 0.52);
+	background: rgba(15, 15, 15, 0.52);
 	z-index: 10;
 }
 .header.scrolled
 {
 	height: 80px;
-	background: rgba(27, 11, 51, 0.92);
+	background: rgba(0, 0, 0, 0.92);
 }
 
 /*********************************
@@ -669,7 +669,7 @@ section
 	font-size: 12px;
 	font-weight: 400;
 	text-transform: uppercase;
-	color: #452b78;
+	color: rgb(2, 27, 85);
 }
 .card-title
 {
@@ -682,7 +682,7 @@ section
 }
 .card-title a:hover
 {
-	color: #452b78;
+	color: rgb(2, 27, 85);
 }
 .blog_pages
 {
@@ -701,11 +701,11 @@ section
 }
 .blog_pages ul li a:hover
 {
-	color: #452b78;
+	color: rgb(2, 27, 85);
 }
 .blog_pages ul li.active a
 {
-	color: #452b78;
+	color: rgb(2, 27, 85);
 }
 
 /*********************************
@@ -852,7 +852,7 @@ section
 }
 .sidebar_categories ul li:hover::before
 {
-	background: #452b78;
+	background: rgb(2, 27, 85);
 }
 
 /*********************************
@@ -905,7 +905,7 @@ section
 }
 .tag_item
 {
-	background: #452b78;
+	background: rgb(2, 27, 85);
 	height: 39px;
 	margin-right: 13px;
 	margin-bottom: 16px;
@@ -956,7 +956,7 @@ section
 }
 .footer_logo a
 {
-	color: #452b78;
+	color: rgb(2, 27, 85);
 	line-height: 1;
 }
 .footer_intro p

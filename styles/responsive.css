@@ -39,7 +39,7 @@
 	}
 	.main_nav ul li
 	{
-		margin-right: 50px;
+		margin-right: 40px;
 	}
 	.v_slider .slick-dots
 	{
@@ -399,7 +399,7 @@
 	}
 	.services_item_inner
 	{
-		background: #452b78;
+		background: rgb(2, 27, 85);
 		padding-left: 15px;
 		padding-right: 15px;
 	}
@@ -477,7 +477,7 @@
 	.header.scrolled
 	{
 		height: 50px;
-		background: rgba(27, 11, 51, 0.92);
+		background: rgba(0, 0, 0, 0.92);
 	}
 	.logo a
 	{

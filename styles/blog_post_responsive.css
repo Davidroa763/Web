@@ -39,7 +39,7 @@
 	}
 	.main_nav ul li
 	{
-		margin-right: 50px;
+		margin-right: 40px;
 	}
 }
 
@@ -266,7 +266,7 @@
 	.header.scrolled
 	{
 		height: 50px;
-		background: rgba(27, 11, 51, 0.92);
+		background: rgba(0, 0, 0, 0.92);
 	}
 	.logo a
 	{
