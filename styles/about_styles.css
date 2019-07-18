@@ -675,7 +675,7 @@ section
 .v_slider_image
 {
 	position: absolute;
-	top: 50%;
+	top: 66%;
 	-webkit-transform: translateY(-50%);
 	-moz-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
